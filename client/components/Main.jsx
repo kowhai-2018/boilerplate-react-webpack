@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './home'
+import Home from './Home'
 import Practice from './Practice'
 import Test from './Test'
 import Challenge from './Challenge'
